@@ -5,7 +5,7 @@ Pellkartoffel mit Topfen;;FALSE;TRUE;FALSE;FALSE;FALSE
 knaeckebrot mit irgendwas;;TRUE;TRUE;FALSE;FALSE;FALSE
 Kaeferbohnensalat;;FALSE;TRUE;FALSE;FALSE;FALSE
 Eierspeis mit knaeckebrot;;FALSE;TRUE;FALSE;FALSE;FALSE
-Pollenta mit Pilzsoue;;FALSE;TRUE;FALSE;FALSE;FALSE
+Pollenta mit Pilzsoue;https://biancazapatka.com/de/cremige-vegane-polenta-mit-pilzen-und-spinat/;FALSE;TRUE;FALSE;FALSE;FALSE
 Raeucherfisch;;FALSE;TRUE;FALSE;FALSE;FALSE
 Zucchini-Lachs-Ricotta Rullchen;;FALSE;TRUE;FALSE;FALSE;FALSE
 Apfel und Hirsebrei;;TRUE;FALSE;FALSE;FALSE;FALSE
@@ -25,8 +25,8 @@ Fisch divers;ala Buch;FALSE;FALSE;TRUE;FALSE;TRUE
 Fisch divers;ala Buch;FALSE;FALSE;TRUE;FALSE;TRUE
 Fisch divers;ala Buch;FALSE;FALSE;TRUE;FALSE;TRUE
 Fisch divers;ala Buch;FALSE;FALSE;TRUE;FALSE;TRUE
-Mexikanische Blaetterteigtaschen;TK Blaetterteig gefüllt mit vorgekochtem. zB Kiddneybohnen, Mais, Kraut, Faschiertes, Tomaten,…;FALSE;FALSE;TRUE;TRUE;FALSE
-Mexikanische Blaetterteigtaschen vegi;TK Blaetterteig gefüllt mit vorgekochtem. zB Kiddneybohnen, Mais, Kraut, Sojagranulat, Tomaten,…;FALSE;FALSE;TRUE;FALSE;FALSE
+Mexikanische Blaetterteigtaschen;TK Blaetterteig gefÃ¼llt mit vorgekochtem. zB Kiddneybohnen, Mais, Kraut, Faschiertes, Tomaten,â€¦;FALSE;FALSE;TRUE;TRUE;FALSE
+Mexikanische Blaetterteigtaschen vegi;TK Blaetterteig gefÃ¼llt mit vorgekochtem. zB Kiddneybohnen, Mais, Kraut, Sojagranulat, Tomaten,â€¦;FALSE;FALSE;TRUE;FALSE;FALSE
 Cottage Pie;;FALSE;FALSE;TRUE;TRUE;FALSE
 Civapcici;;FALSE;FALSE;TRUE;TRUE;FALSE
 Fleisch-Quiche;;FALSE;FALSE;TRUE;TRUE;FALSE
@@ -81,5 +81,5 @@ griesnockerlsuppe;;FALSE;FALSE;FALSE;FALSE;FALSE
 salat;;FALSE;FALSE;FALSE;FALSE;FALSE
 suppe;;FALSE;FALSE;FALSE;FALSE;FALSE
 Rohkost/Gemueseteller;;TRUE;FALSE;FALSE;FALSE;FALSE
-Zoodles mit Pilzsosse vegi;Schwammerl kleinschneiden und anbraten in Butter oder Olivenöl, und zu einer Soße machen. Zucchininudeln kurz in Wasser duensten. Servieren;FALSE;TRUE;TRUE;FALSE;FALSE
-Zoodles mit Fisch-Pilzsosse;Schwammerl kleinschneiden und anbraten in Butter oder Olivenöl, und zu einer Fisch Soße machen. Zucchininudeln kurz in Wasser duensten. Servieren;FALSE;TRUE;TRUE;FALSE;TRUE
+Zoodles mit Pilzsosse vegi;Schwammerl kleinschneiden und anbraten in Butter oder OlivenÃ¶l, und zu einer SoÃŸe machen. Zucchininudeln kurz in Wasser duensten. Servieren;FALSE;TRUE;TRUE;FALSE;FALSE
+Zoodles mit Fisch-Pilzsosse;Schwammerl kleinschneiden und anbraten in Butter oder OlivenÃ¶l, und zu einer Fisch SoÃŸe machen. Zucchininudeln kurz in Wasser duensten. Servieren;FALSE;TRUE;TRUE;FALSE;TRUE
