@@ -9,8 +9,8 @@ data_from_txt <- function(name_of_file, names_of_columns){
                 byrow = TRUE))
 }
 
-cnames_rez <- colnames_from_txt("GitHub/Meal-Plan/rezepte.csv")
-rezepte <- as.data.frame(data_from_txt("GitHub/Meal-Plan/rezepte.csv", cnames_rez))
+cnames_rez <- colnames_from_txt("GitHub/meal-plan/rezepte.csv")
+rezepte <- as.data.frame(data_from_txt("GitHub/meal-plan/rezepte.csv", cnames_rez))
 colnames(rezepte) <- cnames_rez
 rezepte <- rezepte[-1,]
 rezepte$Morgen <- as.logical(rezepte$Morgen)
@@ -55,7 +55,7 @@ for (j in 1:length(file_for_cal_import$Subject)){
   file_for_cal_import$description[j] <- rezepte$Rezept[rezepte$Titel == file_for_cal_import$Subject[j]]
 }
 
-write.csv(file_for_cal_import, "essensplan_für_cal_import.csv", row.names = FALSE, quote = FALSE)
+write.csv(file_for_cal_import, "essensplan_für_cal_import.csv", row.names = FALSE, quote = TRUE)
 
 rm(list = ls())
 gc()
