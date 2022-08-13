@@ -9,8 +9,8 @@ data_from_txt <- function(name_of_file, names_of_columns){
                 byrow = TRUE))
 }
 
-cnames_rez <- colnames_from_txt("GitHub/meal-plan/rezepte.csv")
-rezepte <- as.data.frame(data_from_txt("GitHub/meal-plan/rezepte.csv", cnames_rez))
+cnames_rez <- colnames_from_txt("rezepte.csv")
+rezepte <- as.data.frame(data_from_txt("rezepte.csv", cnames_rez))
 colnames(rezepte) <- cnames_rez
 rezepte <- rezepte[-1,]
 rezepte$Morgen <- as.logical(rezepte$Morgen)
