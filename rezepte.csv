@@ -1,4 +1,5 @@
 Titel;Rezept;Morgen;Abend;Mittag;Fleisch;Fisch
+spagetti bolognese;;FALSE;TRUE;TRUE;TRUE;FALSE
 Gedunstetes gemuse;gemuse dunsten und mit sauerrahmdip und parmesan servieren;FALSE;TRUE;TRUE;FALSE;FALSE
 Geschmorte Schweinbackerlan;;FALSE;TRUE;TRUE;TRUE;FALSE
 Gemuesespaetzle;Buchweizenspaetzle mit roestgemuese in der pfanne;FALSE;TRUE;TRUE;FALSE;FALSE
